@@ -22,14 +22,13 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
 PICS = (environ.get('PICS', 'https://telegra.ph/file/153d6b252269bf10b58b9.jpg https://telegra.ph/file/8f47e51d61193fc2457d2.jpg https://telegra.ph/file/65edb774e93dc5e92ed0c.jpg')).split()
 
 # Admins, Channels & Users
-ADMINS = int(5739535897)
-CHANNELS = int(-1001646992718)
+ADMINS = [5739535897]
+CHANNELS = [-1001646992718]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
-auth_channel = -1001607475353
-auth_grp = environ.get('AUTH_GROUP')
-AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
-AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
+auth_channel = environ.get('AUTH_CHANNEL')
+AUTH_CHANNEL = -1001552415260
+AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
 
 # MongoDB information
 DATABASE_URI = "mongodb+srv://nithya:nithya@cluster0.exupnem.mongodb.net/?retryWrites=true&w=majority"
