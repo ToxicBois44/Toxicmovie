@@ -7,7 +7,7 @@ class script(object):
 𝙷𝚎𝚛𝚎 𝚊𝚛𝚎 𝚜𝚘𝚖𝚎 𝚍𝚎𝚝𝚊𝚒𝚕𝚜 𝚢𝚘𝚞 𝚗𝚎𝚎𝚍 𝚝𝚘 𝚔𝚗𝚘𝚠.
 
 ✯ 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝚅𝟹	
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href="https://t.me/About_Sandaruwan">𝚂𝚊𝚑𝚊𝚗 𝚂</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href="https://t.me/SinhalaCryptoNews">Sinhala Crypto News 𝚂</a>
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽3 
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚟𝟹.𝟷.𝟷 [ 𝙱𝙴𝚃𝙰 ]
@@ -117,6 +117,6 @@ Loki S01E01 | You S03 | Wednesday S01 720p
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 𝚂𝚊𝚑𝚊𝚗 𝚂𝚊𝚗𝚍𝚊𝚛𝚞𝚠𝚊𝚗
-• ᴀʙᴏᴜᴛ : <a href='https://t.me/About_Sandaruwan'>ᴀʙᴏᴜᴛ sᴀɴᴅᴀʀᴜᴡᴀɴ</a>
-• ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Sandaruwan_Feedback_Bot'>sᴀʜᴀɴs</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : Sinhala Crypto News
+• ᴀʙᴏᴜᴛ : <a href='https://t.me/SinhalaCryptoNews'>Sinhala Crypto News</a>
+• ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/SinhalaFilms_LK'>sᴀʜᴀɴs</a></b>"""
