@@ -119,4 +119,4 @@ Loki S01E01 | You S03 | Wednesday S01 720p
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : Sinhala Crypto News
 • ᴀʙᴏᴜᴛ : <a href='https://t.me/SinhalaCryptoNews'>Sinhala Crypto News</a>
-• ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/SinhalaFilms_LK'>sᴀʜᴀɴs</a></b>"""
+• ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/SinhalaFilms_LK'>Sinhala Crypto News</a></b>"""
