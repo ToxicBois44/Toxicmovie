@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🤖 Updates', url='https://t.me/SECLK')
+                InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/SinhalaCryptoNews')
             ],
             [
-                InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
+                InlineKeyboardButton('Help❗️', url=f"https://t.me/{temp.U_NAME}?start=help"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -44,10 +44,10 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘs ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🔍 Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ', url='https://t.me/About_Sandaruwan/23'),
-                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🤖', url=f'https://t.me/SECLK')
+                    InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/SinhalaFilms_LK'),
+                    InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/SinhalaCryptoNews')
                 ],[
-                    InlineKeyboardButton('Hᴇʟᴘ ℹ️', callback_data='help'),
+                    InlineKeyboardButton('Help❗️', callback_data='help'),
                     InlineKeyboardButton('Aʙᴏᴜᴛ 😊', callback_data='about'),
                     InlineKeyboardButton('Bᴏᴛ Oᴡɴᴇʀ 👤', callback_data="owner_info")
                 ]]
@@ -68,7 +68,7 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "🤖 Join Updates Channel", url=invite_link.invite_link
+                    "⚡️ Join Updates Channel", url=invite_link.invite_link
                 )
             ]
         ]
@@ -91,10 +91,10 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘs ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('🔍 Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ', url='https://t.me/About_Sandaruwan/23'),
-                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ 🤖', url=f'https://t.me/SECLK')
+                    InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/SinhalaFilms_LK'),
+                    InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/SinhalaCryptoNews')
                 ],[
-                    InlineKeyboardButton('Hᴇʟᴘ ℹ️', callback_data='help'),
+                    InlineKeyboardButton('Help❗️', callback_data='help'),
                     InlineKeyboardButton('Aʙᴏᴜᴛ 😊', callback_data='about'),
                     InlineKeyboardButton('Bᴏᴛ Oᴡɴᴇʀ 👤', callback_data="owner_info")
                 ]]
