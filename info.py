@@ -27,7 +27,7 @@ CHANNELS = [-1001646992718]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_channel = environ.get('AUTH_CHANNEL')
-AUTH_CHANNEL = -1001552415260
+AUTH_CHANNEL = -1001841445002
 AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
 
 # MongoDB information
