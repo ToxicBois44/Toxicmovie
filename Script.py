@@ -1,13 +1,13 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, JUST ADD ME TO YOUR GROUP AND ENJOY 🙈😍"""
     HELP_TXT = """ 𝙷𝙴𝚑  {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """
 𝙷𝚎𝚛𝚎 𝚊𝚛𝚎 𝚜𝚘𝚖𝚎 𝚍𝚎𝚝𝚊𝚒𝚕𝚜 𝚢𝚘𝚞 𝚗𝚎𝚎𝚍 𝚝𝚘 𝚔𝚗𝚘𝚠.
 
 ✯ 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝚅𝟹	
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href="https://t.me/SinhalaCryptoNews">Sinhala Crypto News 𝚂</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href="https://t.me/Sfptelegram">SFP FILMS 𝚂</a>
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽3 
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚟𝟹.𝟷.𝟷 [ 𝙱𝙴𝚃𝙰 ]
@@ -32,9 +32,9 @@ class script(object):
 𝟸. 𝙱𝚘𝚝 𝚜𝚞𝚙𝚙𝚘𝚛𝚝𝚜 𝚋𝚞𝚝𝚝𝚘𝚗𝚜 𝚠𝚒𝚝𝚑 𝚊𝚗𝚢 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚖𝚎𝚍𝚒𝚊 𝚝𝚢𝚙𝚎. 
 𝟹. 𝙱𝚞𝚝𝚝𝚘𝚗𝚜 𝚜𝚑𝚘𝚞𝚕𝚍 𝚋𝚎 𝚙𝚛𝚘𝚙𝚎𝚛𝚕𝚢 𝚙𝚊𝚛𝚜𝚎𝚍 𝚊𝚜 𝚖𝚊𝚛𝚔𝚍𝚘𝚠𝚗 𝚏𝚘𝚛𝚖𝚊𝚝
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/SECLK)</code>
+<code>[Button Text](buttonurl:https://t.me/SFPFILMS)</code>
 <b>Alert buttons:</b>
-<code>[Button Text](buttonalert:This is an alert message, You should use @NETFLIXLKBOT to get Movies )</code>"""
+<code>[Button Text](buttonalert:This is an alert message, You should use @AmazonFilmsBot to get Movies )</code>"""
     AUTOFILTER_TXT = """𝙷𝚎𝚕𝚙: <b>Auto Filter</b>
 <b>NOTE:</b>
   𝟷. 𝙼𝚊𝚔𝚎 𝚖𝚎 𝚝𝚑𝚎 𝚊𝚍𝚖𝚒𝚗 𝚘𝚏 𝚢𝚘𝚞𝚛 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 𝚒𝚏 𝚒𝚝'𝚜 𝚙𝚛𝚒𝚟𝚊𝚝𝚎. 
@@ -117,6 +117,6 @@ Loki S01E01 | You S03 | Wednesday S01 720p
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : Sinhala Crypto News
-• ᴀʙᴏᴜᴛ : <a href='https://t.me/SinhalaCryptoNews'>Sinhala Crypto News</a>
-• ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/SinhalaFilms_LK'>Sinhala Crypto News</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : T O X I C
+• ᴀʙᴏᴜᴛ : <a href='https://t.me/Sinhalaflims'>SFP FILMS</a>
+• ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/jonathanlk'>T O X I C</a></b>"""
