@@ -438,8 +438,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘs ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/SinhalaFilms_LK'),
-                    InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/SinhalaCryptoNews')
+                    InlineKeyboardButton('⚡ŞỮƤƤØŘŦ ⚡', url='https://t.me/Sinhalaflims'),
+                    InlineKeyboardButton('⚡ UỮƤĐΔŦ€Ş ⚡', url='https://t.me/Sfptelegram')
                 ],[
                     InlineKeyboardButton('Help❗️', callback_data='help'),
                     InlineKeyboardButton('Aʙᴏᴜᴛ 😊', callback_data='about'),
@@ -471,8 +471,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/SinhalaCryptoNews'),
-            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/SinhalaCryptoNews')
+            InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/Sinhalaflims'),
+            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/sinhaladubbedlk')
         ], [
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('🔐 Close', callback_data='close_data')
@@ -595,7 +595,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "owner_info":
             buttons = [[
                     InlineKeyboardButton('👩‍🦯 Back', callback_data="start"),
-                    InlineKeyboardButton('📞 Contact', url="t.me/SinhalaCryptoNews")
+                    InlineKeyboardButton('📞 Contact', url="t.me/sinhaladubbedlk")
                   ]]
             reply_markup = InlineKeyboardMarkup(buttons)
             await query.message.edit_text(
