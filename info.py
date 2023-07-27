@@ -31,18 +31,18 @@ AUTH_CHANNEL = -1001552415260
 AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
 
 # MongoDB information
-DATABASE_URI = "mongodb+srv://nithya:nithya@cluster0.exupnem.mongodb.net/?retryWrites=true&w=majority"
+DATABASE_URI = "mongodb+srv://sfpmoviebot:<password>@cluster0.htzypxp.mongodb.net/?retryWrites=true&w=majority"
 DATABASE_NAME = "MongoDB"
 COLLECTION_NAME = 'Telegram_files'
 
 # Others
 LOG_CHANNEL = int(-1001799057674)
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Sinhalacryptonews')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), True)
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "ɴᴀᴍᴇ: <code>{file_name}</code> \n\nᴊᴏɪɴ ɴᴏᴡ: [Sinhala Movies](https://t.me/Sinhalaflims)</b>")
-BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "ɴᴀᴍᴇ: <code>{file_name}</code> \n\nᴊᴏɪɴ ɴᴏᴡ: [Sinhala Dubbed Movies](https://t.me/sinhaladubbedlk)</b>")
+BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "ɴᴀᴍᴇ: <code>{file_name}</code> \n\nᴊᴏɪɴ ɴᴏᴡ: [Sinhala Dubbed Movies](https://t.me/sfptelegram)</b>")
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "🧿 ᴛɪᴛᴛʟᴇ :  {title} \n🌟 ʀᴀᴛɪɴɢ : {rating} \n🎭 ɢᴇɴʀᴇ : {genres} \n📆 ʀᴇʟᴇᴀsᴇ : {year} \n⏰ ᴅᴜʀᴀᴛɪᴏɴ : {runtime} \n🎙️ʟᴀɴɢᴜᴀɢᴇ : {languages} \n🔖 sʜᴏʀᴛ : {plot} \n★ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : @SinhalaFlims")
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
