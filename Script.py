@@ -7,7 +7,7 @@ class script(object):
 𝙷𝚎𝚛𝚎 𝚊𝚛𝚎 𝚜𝚘𝚖𝚎 𝚍𝚎𝚝𝚊𝚒𝚕𝚜 𝚢𝚘𝚞 𝚗𝚎𝚎𝚍 𝚝𝚘 𝚔𝚗𝚘𝚠.
 
 ✯ 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝚅𝟹	
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href="https://t.me/Sfptelegram">SFP FILMS 𝚂</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href="https://t.me/Jonathanlk">Jonathan  𝚂</a>
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽3 
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: 𝚟𝟹.𝟷.𝟷 [ 𝙱𝙴𝚃𝙰 ]
@@ -34,7 +34,7 @@ class script(object):
 <b>URL buttons:</b>
 <code>[Button Text](buttonurl:https://t.me/SFPFILMS)</code>
 <b>Alert buttons:</b>
-<code>[Button Text](buttonalert:This is an alert message, You should use @AmazonFilmsBot to get Movies )</code>"""
+<code>[Button Text](buttonalert:This is an alert message, You should use @CineFlixFinderBot to get Movies )</code>"""
     AUTOFILTER_TXT = """𝙷𝚎𝚕𝚙: <b>Auto Filter</b>
 <b>NOTE:</b>
   𝟷. 𝙼𝚊𝚔𝚎 𝚖𝚎 𝚝𝚑𝚎 𝚊𝚍𝚖𝚒𝚗 𝚘𝚏 𝚢𝚘𝚞𝚛 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 𝚒𝚏 𝚒𝚝'𝚜 𝚙𝚛𝚒𝚟𝚊𝚝𝚎. 
