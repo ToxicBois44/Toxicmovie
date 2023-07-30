@@ -31,7 +31,7 @@ AUTH_CHANNEL = -1001552415260
 AUTH_GROUPS = [int(admin) for admin in environ.get("AUTH_GROUPS", "").split()]
 
 # MongoDB information
-DATABASE_URI = "mongodb+srv://sfpmoviebot:<password>@cluster0.htzypxp.mongodb.net/?retryWrites=true&w=majority"
+DATABASE_URI = "mongodb+srv://toxic: toxic@cluster0.brvjhdw.mongodb.net/?retryWrites=true&w=majority"
 DATABASE_NAME = "MongoDB"
 COLLECTION_NAME = 'Telegram_files'
 
