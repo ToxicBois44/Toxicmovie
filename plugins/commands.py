@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('⚡ ỮƤĐΔŦ€Ş ⚡', url='https://t.me/sinhaladubbedlk')
+                InlineKeyboardButton('⚡ ỮƤĐΔŦ€Ş ⚡', url='https://t.me/sinhalaFlims')
             ],
             [
                 InlineKeyboardButton('Help❗️', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -45,7 +45,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘs ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                     InlineKeyboardButton('⚡ ŞỮƤƤØŘŦ ⚡', url='https://t.me/sinhalaflims'),
-                    InlineKeyboardButton('⚡ ỮƤĐΔŦ€Ş ⚡', url='https://t.me/sinhaladubbedlk')
+                    InlineKeyboardButton('⚡ ỮƤĐΔŦ€Ş ⚡', url='https://t.me/sinhalaFlims')
                 ],[
                     InlineKeyboardButton('Help❗️', callback_data='help'),
                     InlineKeyboardButton('Aʙᴏᴜᴛ 😊', callback_data='about'),
@@ -92,7 +92,7 @@ async def start(client, message):
                     InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘs ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
                      InlineKeyboardButton('⚡ ŞỮƤƤØŘŦ ⚡', url='https://t.me/sinhalaflims'),
-                    InlineKeyboardButton('⚡ ỮƤĐΔŦ€Ş ⚡', url='https://t.me/sinhaladubbedlk')
+                    InlineKeyboardButton('⚡ ỮƤĐΔŦ€Ş ⚡', url='https://t.me/sinhalaFlims')
                 ],[
                     InlineKeyboardButton('Help❗️', callback_data='help'),
                     InlineKeyboardButton('Aʙᴏᴜᴛ 😊', callback_data='about'),
