@@ -32,7 +32,7 @@ class script(object):
 𝟸. 𝙱𝚘𝚝 𝚜𝚞𝚙𝚙𝚘𝚛𝚝𝚜 𝚋𝚞𝚝𝚝𝚘𝚗𝚜 𝚠𝚒𝚝𝚑 𝚊𝚗𝚢 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚖𝚎𝚍𝚒𝚊 𝚝𝚢𝚙𝚎. 
 𝟹. 𝙱𝚞𝚝𝚝𝚘𝚗𝚜 𝚜𝚑𝚘𝚞𝚕𝚍 𝚋𝚎 𝚙𝚛𝚘𝚙𝚎𝚛𝚕𝚢 𝚙𝚊𝚛𝚜𝚎𝚍 𝚊𝚜 𝚖𝚊𝚛𝚔𝚍𝚘𝚠𝚗 𝚏𝚘𝚛𝚖𝚊𝚝
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/SFPFILMS)</code>
+<code>[Button Text](buttonurl:https://t.me/sinhalaflims)</code>
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message, You should use @CineFlixFinderBot to get Movies )</code>"""
     AUTOFILTER_TXT = """𝙷𝚎𝚕𝚙: <b>Auto Filter</b>
